@@ -1,6 +1,6 @@
 # JoeyGPT
 This is a WebGUI for Ollama LLama3.2. You need LLama3.2 installed via Ollama and Python v3.12.
-Run this command to install the required libraries: pip install flask subprocess os dotenv
+Run this command to install the required libraries: pip install flask dotenv
 
 To install LLama3.2:
   Go to [ollama.ai](https://ollama.com/download).
